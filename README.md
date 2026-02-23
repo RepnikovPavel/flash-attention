@@ -1,3 +1,11 @@
+compile from source  
+
+```
+MAX_JOBS=16 FLASH_ATTN_CUDA_ARCHS=89 python3 setup.py install
+```  
+
+
+
 # FlashAttention
 This repository provides the official implementation of FlashAttention and
 FlashAttention-2 from the
